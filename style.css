@@ -1,4 +1,23 @@
-header {
-    background-color: #2B17A9;
-    color: white;
+html   {
+    height: 100%
+}
+
+body{
+    background-color: rgba(43, 23, 169, 0.91) ;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 30px ;
+    font-size: 220% ;
+}
+
+.texto {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    padding: 80px ;
+    font-size: 180% 
 }
